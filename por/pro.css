@@ -1,0 +1,18 @@
+h1 {
+    display: flex; justify-content: center;
+    color: rgb(201, 105, 8);
+}
+.pic {width:50px
+ }
+ .pluto{color: rgb(189, 142, 67);}
+ body{
+    background-color: rgb(189, 142, 67);
+ }
+html {background-color: rgb(189, 142, 67);}
+.nav { background-color: rgb(189, 142, 67);
+      color: aqua;}
+button {
+     border-color:  rgb(162, 137, 35);
+     margin:5px;
+    background-color: rgb(166, 121, 49)
+    }
