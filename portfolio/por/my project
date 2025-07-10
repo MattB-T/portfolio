@@ -1,27 +1,29 @@
-<html> 
-<div class="bun" >
-<a href="my project"><button>  <img class=selected src="Screenshot 2025-07-03 112208.png">
-</button> 
-<a href="about.html"><button ><img class="pic" src="Screenshot 2025-07-03 111949 (1).png"></button></a>
- <a href="my projects.html"><button ><img class="pic" src="Screenshot 2025-07-07 095639.png"></button></a>
- <a href="contact.html"><button ><img class="pic" src="Screenshot 2025-07-08 085612.png"></button></a>  
+<html>
+<div class="bun">
+  <a href="my project"><button> <img class=selected src="Screenshot 2025-07-03 112208.png">
+    </button>
+    <a href="about.html"><button><img class="pic" src="Screenshot 2025-07-03 111949 (1).png"></button></a>
+    <a href="my projects.html"><button><img class="pic" src="Screenshot 2025-07-07 095639.png"></button></a>
+    <a href="contact.html"><button><img class="pic" src="Screenshot 2025-07-08 085612.png"></button></a>
 </div>
-  <title>Matthew B-T portfolio</title>
- <body> 
-   <h1>Matthew B-T</h1>
-   
-  
+<title>Matthew B-T portfolio</title>
 
- 
+<body>
+  <h1>Matthew B-T</h1>
 
 
 
-<img class="meow" src="Annotation 2025-06-24 120451.png">
+
+
+
+
+  <img class="meow" src="Annotation 2025-06-24 120451.png">
 </body>
-<footer><h3>Contact me</h3>
+<footer>
+  <h3>Contact me</h3>
   <p>Email:matthewbowmerthomas@gmail.com<br>
-  Phone#:765-639-5555</p>
-  </footer>
- <link href="pro.css" rel="stylesheet">
+    Phone#:765-639-5555</p>
+</footer>
+<link href="pro.css" rel="stylesheet">
 
 </html>
