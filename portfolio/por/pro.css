@@ -7,10 +7,12 @@ h1 {
  .pluto{color: rgb(189, 142, 67);}
  body{
     background-color: rgb(189, 142, 67);
- }
+    cursor: url(mouse128.png), auto;
+   }
 html {background-color: rgb(189, 142, 67);}
 .nav { background-color: rgb(189, 142, 67);
-      color: aqua;}
+   cursor: url(mouse128.png), auto;   color: aqua;}
+      
 button {
      border-color:  rgb(162, 137, 35);
      margin:5px;
@@ -31,6 +33,7 @@ top: 155
 .yt { display: flex; justify-content: center;}
 h4 {color: rgb(145, 76, 7);}
 footer {background-color:rgb(209, 160, 81);
+   cursor: url(mouse128.png), auto;
    position: fixed;
 bottom: 45
     }
@@ -44,3 +47,19 @@ bottom: 45
 position: fixed;
 top: 200
 }
+.pic5  {width: 250;
+position: fixed;
+top: 200;
+left: 40%;
+}
+.pic6  {width: 150;
+position: fixed; 
+top: 220;
+left: 20px;
+}
+.pic7  {width: 150;
+position: fixed; 
+top: 220;
+right: 20px;
+}
+html {cursor: url(mouse128.png), auto; }
