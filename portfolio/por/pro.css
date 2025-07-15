@@ -63,3 +63,10 @@ top: 220;
 right: 20px;
 }
 html {cursor: url(mouse128.png), auto; }
+.yt2 { 
+   display: flex; justify-content: center;
+   position: fixed; 
+top: 220;
+right: 20px;
+background-color:rgb(209, 160, 81);
+}
